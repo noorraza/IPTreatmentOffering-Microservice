@@ -6,9 +6,10 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableFeignClients
-public class IpTreatmentOfferingApplication {
+public class IpTreatmentOfferingApplication{
 
 	public static void main(String[] args) {
 		SpringApplication.run(IpTreatmentOfferingApplication.class, args);
 	}
+
 }

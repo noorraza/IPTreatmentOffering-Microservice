@@ -1,7 +1,7 @@
-insert into specialists (specialist_id, area_of_expertise, contact_number, experience_in_years, name) values(1, 0, 9945672345, 10, 'Dr Riya' )
-insert into specialists (specialist_id, area_of_expertise, contact_number, experience_in_years, name) values(2, 0, 8876523457, 8, 'Dr Karan' )
-insert into specialists (specialist_id, area_of_expertise, contact_number, experience_in_years, name) values(3, 1, 9422467465, 7, 'Dr Harsh' )
-insert into specialists (specialist_id, area_of_expertise, contact_number, experience_in_years, name) values(4, 1, 756842689, 11, 'Dr Shreya' )
+insert into specialists (specialist_id, area_of_expertise, contact_number, experience_in_years, name) values(1,0, 9945672345, 10, 'Dr Riya' )
+insert into specialists (specialist_id, area_of_expertise, contact_number, experience_in_years, name) values(2,0, 8876523457, 8, 'Dr Karan' )
+insert into specialists (specialist_id, area_of_expertise, contact_number, experience_in_years, name) values(3,1, 9422467465, 7, 'Dr Harsh' )
+insert into specialists (specialist_id, area_of_expertise, contact_number, experience_in_years, name) values(4,1, 756842689, 11, 'Dr Shreya' )
 
 
 insert into packages (pid, cost, treatment_duration, treatment_package_name) values (101, 25000, 4, 'Package 1')
