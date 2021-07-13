@@ -17,9 +17,12 @@ import org.springframework.web.bind.annotation.SessionAttributes;
 import com.cts.portal.feign.AuthorisingClient;
 import com.cts.portal.model.JwtRequest;
 
+import lombok.extern.log4j.Log4j2;
+
 @Controller
 @RequestMapping("/portal")
 @SessionAttributes("username")
+@Log4j2
 public class LoginRegisterController {
 
 	@Autowired
@@ -67,7 +70,7 @@ public class LoginRegisterController {
 			
 
 		} catch (Exception e) {
-			System.out.println(e.getMessage()+"=========================");
+			log.info(e.getMessage()+"=========================");
 			e.printStackTrace();
 			model.addAttribute("errorMessage", "Invalid Credentials");
 			return "login";

@@ -22,7 +22,9 @@
 	href="https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap"
 	rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap" rel="stylesheet">
+<link
+	href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap"
+	rel="stylesheet">
 <link rel="stylesheet" href="/css/style.css">
 <link rel="stylesheet" href="/css/style-table.css">
 <link rel="stylesheet" href="/css/style-admin.css">
@@ -35,7 +37,9 @@
 		</div>
 		<div class="left-main">
 			<!-- <img src="/images/img2.jpg" alt="" width="100%" height="100%"> -->
-			<h3>We care <br/>about <br /> your health</h3>
+			<h3>
+				We care <br />about <br /> your health
+			</h3>
 		</div>
 		<div class="right-main">
 			<div class="container login-section">
@@ -73,8 +77,10 @@
 
 		<%@ include file="fragments/footer.jsp"%>
 	</div>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script
+		src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script
+		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<script src="/js/script.js"></script>
 </body>
 

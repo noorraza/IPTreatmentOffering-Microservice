@@ -6,16 +6,7 @@
 	<hr class="line">
 	<div class="row footer-space">
 		<div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 footer-text left">IPMS</div>
-		<div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 footer-text right">
-		
-		
-			<!-- <ul class="footer-ul">
-				<li class="footer-list-item"><a
-					class="footer-link text-uppercase" href="#">About </a></li>
-				<li class="footer-list-item"><a
-					class="footer-link text-uppercase" href="#">Contact Us </a></li>
-			</ul> -->
-			
+		<div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 footer-text right">			
 			&copy 2021 International Patients Management System
 		</div>
 	</div>

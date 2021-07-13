@@ -2,9 +2,13 @@
 	pageEncoding="ISO-8859-1"%>
 <div class="side-navbar">
 	<ul class="list-unstyled" id="pageSubmenu">
-	<li><a href="/portal/specialists">Our Specialists</a></li>
+		<li><a href="/portal/specialists">Our Specialists</a></li>
+		<li><a href="/portal/specialistsByExpertsise">Specialists By Specialization</a></li>
+		<li><a href="/portal/deleteSpecialist">Delete Specialists</a></li>
+		<li><a href="/portal/addSpecialist">Add New Specialist</a></li>
 		<li><a href="/portal/ipTreatmentPackages">Our Service Packages</a></li>
 		<li><a href="/portal/ipTreatmentPackageByName">Search Package</a></li>
+		<li><a href="/portal/updatePackage">Update Service Packages</a></li>
 		<li><a href="/portal/treatmentRegister">Register Patient</a></li>
 		<li><a href="/portal/trackTreatment">View Treatment Plan</a></li>
 		<li><a href="/portal/adminViewActivePage">View Active Users</a></li>
